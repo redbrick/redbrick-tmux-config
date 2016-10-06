@@ -8,7 +8,7 @@ Prefix mapped to Ctrl-B but can has Ctrl-A commented out for `screen` users if t
   Download:
 
 ```bash
-git clone https://github.com/redbrick/tmux-config.git ~/.tmux
+git clone https://github.com/redbrick/redbrick-tmux-config.git ~/.tmux
 ```
 
   Copy tmux config to home:
